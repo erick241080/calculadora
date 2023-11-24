@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1700704348 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\calc_estandar.c
+1700808641 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\calc_estandar.c
 	"include/calc_estandar.h"
 
 1700111670 d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\include\calc_estandar.h
@@ -11,4 +11,19 @@
 
 1700193870 d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\include\cal_conver.h
 	<math.h>
+
+1700704555 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\cal_programador.c
+	"include/cal_programador.h"
+	<math.h>
+
+1700172570 d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\include\cal_programador.h
+	<math.h>
+
+1700808391 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"include/calc_estandar.h"
+	"include/cal_programador.h"
+	"include/cal_conver.h"
 

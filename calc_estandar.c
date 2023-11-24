@@ -23,7 +23,7 @@ float division(float a, float b) {
 
         printf("Error División por cero no es posible \n");
 
-        return 0.0;
+        //return 0.0;
 
     }
 }
