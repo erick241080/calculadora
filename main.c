@@ -5,7 +5,6 @@
 #include "include/calc_estandar.h"
 #include "include/cal_cientifica.h"
 #include "include/cal_programador.h"
-//#include "include/cal_conver.h"
 
 struct datos {
     float num1;
