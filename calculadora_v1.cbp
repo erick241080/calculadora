@@ -31,7 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="cal_conver.c">
+		<Unit filename="cal_cientifica.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="cal_programador.c">
@@ -40,7 +40,7 @@
 		<Unit filename="calc_estandar.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="include/cal_conver.h" />
+		<Unit filename="include/cal_cientifica.h" />
 		<Unit filename="include/cal_programador.h" />
 		<Unit filename="include/calc_estandar.h" />
 		<Unit filename="main.c">

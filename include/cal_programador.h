@@ -1,11 +1,14 @@
-#include <math.h>
+
+// cal_programador_h
+
 #ifndef CAL_PROGRAMADOR_H
 #define CAL_PROGRAMADOR_H
+#include <math.h>
 
+// Declaraciones de funciones
+void decimal_a_binario(int a);
+void decimal_a_hexa(int a);
+void binario_decimal(char *binario);
+double hexa_a_decimal(double a);
 
-float exponente_N(float a);
-float X_exponente_N(float a, float b);
-float X_exponente_2(float a);
-double raiz_cuadrada(double a);
-
-#endif // CAL_PROGRAMADOR_H
+#endif
