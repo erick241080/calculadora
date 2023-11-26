@@ -12,16 +12,19 @@
 1700193870 d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\include\cal_conver.h
 	<math.h>
 
-1700957176 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\cal_programador.c
+1700984061 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\cal_programador.c
 	"include/cal_programador.h"
+	<ctype.h>
 
-1700957101 d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\include\cal_programador.h
+1700984960 d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\include\cal_programador.h
 	<math.h>
 
-1700958188 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\main.c
+1700984960 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\main.c
 	<stdio.h>
 	<stdlib.h>
+	<ctype.h>
 	<math.h>
+	<string.h>
 	"include/calc_estandar.h"
 	"include/cal_cientifica.h"
 	"include/cal_programador.h"
