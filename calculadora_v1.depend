@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1700884691 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\calc_estandar.c
+1700958166 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\calc_estandar.c
 	"include/calc_estandar.h"
 
 1700111670 d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\include\calc_estandar.h
@@ -18,7 +18,7 @@
 1700957101 d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\include\cal_programador.h
 	<math.h>
 
-1700957176 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\main.c
+1700958188 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\main.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
@@ -29,7 +29,7 @@
 1700957092 d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\include\cal_cientifica.h
 	<math.h>
 
-1700936450 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\cal_cientifica.c
+1700957989 source:d:\erick\u\ulacit_intel\05-debugging\tareaprogramada\calculadora_v1\cal_cientifica.c
 	"include/cal_cientifica.h"
 	<math.h>
 
